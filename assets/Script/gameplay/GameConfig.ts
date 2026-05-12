@@ -1,0 +1,7 @@
+export const GameConfig = {
+  BOARD_SIZE: 9,
+  TILE_WIDTH: 100,
+  TILE_HEIGHT: 101,
+  TILE_FIRST_HEIGHT: 112,
+  MAX_SHUFFLES: 3,
+};
